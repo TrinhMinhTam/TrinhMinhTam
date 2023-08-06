@@ -1,5 +1,4 @@
 <h2 align="center" >♉Mình là Minh Tâm♉</h2>
-<br>
 <a href="#" target="_blank">
   <img src="Image/anhemnhagau.jpg" width="1200"  />
 </a>
