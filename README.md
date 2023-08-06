@@ -1,4 +1,6 @@
-<h2 align="center" ><span>&#9801;</span>Mình là Minh Tâm<span>&#9801;</span></h2>
+<h2 align="center" >♉Mình là Minh Tâm♉</h2>
+<br>
+<br>
 <h2 align="center">📌 Công nghệ và Công cụ 📌</h2>
 <br>
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
@@ -26,3 +28,14 @@
 <br>
 <h2 align="center">🔎 Liên hệ với tớ 🔎</h2>
 <br>
+<div align="center">
+  <a href="https://facebook.com/sky.minhtamst" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="minhtam-facebook" />
+  </a>
+   <a href="https://www.instagram.com/tam_trinh_minh/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="minhtam-instagram" />
+  </a>
+  <a href="mailto:minhtamstkt@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="minhtam-email" />
+  </a>
+</div>
