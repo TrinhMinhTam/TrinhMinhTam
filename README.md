@@ -1,4 +1,4 @@
-<h2 align="center" >♉Mình là Trịnh Minh Tâm♉</h2>
+<h2 align="center" >♉Tớ là Trịnh Minh Tâm♉</h2>
 <a href="#" target="_blank">
   <img src="Image/anhemnhagau.jpg" width="1200"  />
 </a>
