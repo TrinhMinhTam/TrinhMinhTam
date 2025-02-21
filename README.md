@@ -39,6 +39,9 @@
    <a href="https://www.instagram.com/tam_trinh_minh/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="minhtam-instagram" />
   </a>
+  <a href="https://www.linkedin.com/in/t%C3%A2m-tr%E1%BB%8Bnh-minh/" target="blank">
+  <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="minhtam-linkedin" />
+</a>
   <a href="mailto:minhtamstkt@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="minhtam-email" />
   </a>
